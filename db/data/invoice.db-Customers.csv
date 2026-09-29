@@ -1,0 +1,3 @@
+ID,name,email,city,createdAt,createdBy,modifiedAt,modifiedBy
+a1b2c3d4-0001-4c1a-8b1a-000000000001,Acme Traders,contact@acme.com,Bengaluru,2026-08-20T09:00:00Z,shashi,2026-08-20T09:00:00Z,shashi
+a1b2c3d4-0001-4c1a-8b1a-000000000002,Blue Ocean Ltd,info@blueocean.com,Berlin,2026-08-22T09:00:00Z,shashi,2026-08-22T09:00:00Z,shashi
